@@ -1,10 +1,10 @@
 ### Hey, I'm Akeem
 
-Full-stack developer based in Guyana, building production web applications for businesses across the Caribbean.
+Fullstack developer based in Guyana, building production web applications for businesses.
 
 #### What I work on
 
-I focus on real-world enterprise software — apps that handle the messy domain logic of running an actual business. The kind of work I do includes:
+I focus on real world enterprise software by building apps that handle the messy domain logic of running an actual business. The kind of work I do includes:
 
 - **Payroll systems** with proper statutory tax and insurance compliance
 - **Electronic medical records** for healthcare clinics
